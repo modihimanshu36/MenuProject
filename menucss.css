@@ -2,7 +2,7 @@ body {
 	font-family: 'Montserrat', sans-serif;
 }
 
-/* Utilty Classes*/
+
 
 .img-responsive {
   max-width: 100%;
@@ -63,7 +63,6 @@ body {
 }
 
 
-/*  Product Section */
 
 .product {
 	width: 90%;
@@ -81,12 +80,4 @@ body {
 
 .product__list__item:first-of-type {
 	margin-left: 0;
-}
-
-
-@media screen and (max-width: 700px) {
-	.product__list__item { 
-		width: 100%;
-		float: none;
-	}
 }
